@@ -1,11 +1,8 @@
 # PT NTJ Application Studio - Public Tools & Templates
 
-![PT NTJ Application Studio Logo](https://avatars.githubusercontent.com/u/38486683?s=200&v=4)
-
 **Simplifying Technology, Amplifying Success.**
 
 Welcome to the official GitHub repository for **public tools and template repositories** developed by PT NTJ Application Studio. This collection is designed to empower developers, businesses, and individuals by providing innovative solutions and a head start on various technology projects. Whether you need a utility to streamline a task or a foundational template to kick off your next application, you'll find resources here to accelerate your digital journey.
-
 
 ## About PT NTJ Application Studio
 
@@ -37,8 +34,6 @@ While this repository primarily hosts resources developed by PT NTJ Application 
 ## Legal Information
 
 * **Legal Name:** PT NTJ Application Studio
-* **NIB:** 2610230035774
-* **DUNS:** 631099299
 
 ## Contact Us
 
@@ -46,7 +41,7 @@ We are your trusted partner in digital transformation. Feel free to reach out to
 
 * **E-Mail:** admin@ntjapps.com
 * **Instagram:** https://www.instagram.com/ntjapps
-* **LinkedIn:** https://www.instagram.com/ntjapps
+* **LinkedIn:** https://www.linkedin.com/company/ntjapps
 * **Website:** https://www.ntjapps.com
 
 ---
