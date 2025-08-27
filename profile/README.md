@@ -21,6 +21,20 @@ To be the primary partner providing the best application solutions to meet clien
 * **A - Analyze:** We thoroughly identify and analyze the root causes of our clients' problems.
 * **S - Solution:** We deliver innovative, technology-backed solutions that effectively address our clients' requirements.
 
+## Recent Portfolio (highlights)
+
+We continuously ship production systems across web, mobile, and messaging platforms. Recent notable projects include:
+
+- Venue Ticketing System — a complete ticketing and event management platform used by venues such as BTC Waterpark.
+- Comprehensive POS System (TiloPOS) — full-featured Point-of-Sale solution for retail and inventory operations.
+- WhatsApp Integrated AI Solution — AI-driven virtual agent integrated with WhatsApp for customer engagement and automation.
+- Keluarga Allah Church Ticketing System — event ticketing and attendance management for church events.
+- Keluarga Allah Church Youth & Teens Impact — Survey System for collecting feedback and impact metrics from youth programs.
+- Keluarga Allah Church Youth & Teens Impact — Booking System for scheduling events, meetings, and resources.
+- Keluarga Allah Church Youth & Teens Impact — Integrated WhatsApp Live Q&A System for real-time interaction during events.
+
+If you'd like case studies or demos for any item above, please open an issue or contact us.
+
 ## Repository Contents
 
 This repository contains a growing collection of **open-source tools** and **reusable template repositories** developed by our team.
@@ -37,8 +51,6 @@ While this repository primarily hosts resources developed by PT NTJ Application 
 ## Legal Information
 
 * **Legal Name:** PT NTJ Application Studio
-* **NIB:** 2610230035774
-* **DUNS:** 631099299
 
 ## Contact Us
 
@@ -46,7 +58,7 @@ We are your trusted partner in digital transformation. Feel free to reach out to
 
 * **E-Mail:** admin@ntjapps.com
 * **Instagram:** https://www.instagram.com/ntjapps
-* **LinkedIn:** https://www.instagram.com/ntjapps
+* **LinkedIn:** https://www.linkedin.com/company/ntjapps
 * **Website:** https://www.ntjapps.com
 
 ---
