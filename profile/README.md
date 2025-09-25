@@ -67,9 +67,9 @@ While this repository primarily hosts resources developed by NTJ Application Stu
 
 We are your trusted partner in digital transformation. Feel free to reach out to us for collaborations, inquiries, or support.
 
-* **E-Mail:** admin@ntjapps.com
+* **E-Mail:** admin@ntj.co.id
 * **Instagram:** https://www.instagram.com/ntjapps
 * **LinkedIn:** https://www.linkedin.com/company/ntjapps
-* **Website:** https://www.ntjapps.com
+* **Website:** https://www.ntj.co.id
 
 Thank you for your interest in NTJ Application Studio's public tools and templates! We hope these resources help you simplify technology and amplify your success.
