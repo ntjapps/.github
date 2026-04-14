@@ -1,76 +1,117 @@
-# NTJ Application Studio - Public Tools & Templates
+![NTJ Application Studio](https://avatars.githubusercontent.com/u/38486683?s=200&v=4)
 
-![NTJ Application Studio Logo](https://avatars.githubusercontent.com/u/38486683?s=200&v=4)
+# PT NTJ Application Studio
 
-**Simplifying Technology, Amplifying Success.**
+**Enterprise-grade. SME-friendly. Built to scale.**
 
-🚀 Verified Meta Tech Provider
-We are proud to be a Verified Meta Tech Provider, offering official WhatsApp Business Platform solutions to help you connect with your customers.
+🚀 Verified Meta Tech Provider · Bandung, Indonesia
 
-Welcome to the official GitHub repository for public tools and template repositories developed by NTJ Application Studio. This collection is designed to empower developers, businesses, and individuals with efficient, high-quality solutions.
+[![Website](https://img.shields.io/badge/Website-ntj.co.id-informational.svg)](https://www.ntj.co.id?lang=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ntjapps-blue.svg)](https://www.linkedin.com/company/ntjapps)
+[![Instagram](https://img.shields.io/badge/Instagram-@ntjapps-E4405F.svg)](https://www.instagram.com/ntjapps)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Us-25D366.svg)](https://wa.me/6283869843600)
 
-## About NTJ Application Studio
+---
 
-At NTJ Application Studio, we specialize in developing cutting-edge software for computers, mobile devices, websites, and mobile applications. Our mission is to turn your ideas into reality by providing innovative and reliable technology solutions.
+## Who We Are
 
-## Our Vision
+We build the systems growing SMEs actually need — without enterprise complexity or enterprise pricing.
+Web apps, WhatsApp automation, and POS — live in weeks, not months.
 
-To be the primary partner providing the best application solutions to meet client needs.
+**8+ production systems shipped · 5+ industries served · Verified Meta Tech Provider**
 
-## Our Mission (OAS Method)
+Industries: Tourism · Retail · Government · Faith · F&B
 
-* **O - Observe:** We observe and gather in-depth information to understand the unique challenges faced by our clients.
-* **A - Analyze:** We thoroughly identify and analyze the root causes of our clients' problems.
-* **S - Solution:** We deliver innovative, technology-backed solutions that effectively address our clients' requirements.
+---
 
-## Our Services
+## Two Tracks. One Standard.
 
-We provide a range of development services, with a special focus on:
+|  | SME Starter | Enterprise |
+|---|---|---|
+| **Who** | Growing businesses, 10–200 staff | Corporates, government, 200+ staff |
+| **What** | Ready-to-deploy modules — POS, CRM, or WhatsApp Bot | Custom full-scope systems |
+| **Timeline** | 4–8 weeks | Project-based |
+| **Pricing** | [Contact for pricing](https://wa.me/6283869843600) | [Custom quote](mailto:admin@ntj.co.id) |
 
-- **WhatsApp Business Platform Solutions:** As a Verified Meta Tech Provider, we build and integrate AI-driven virtual agents, customer engagement tools, and automation flows on the official WhatsApp Business Platform.
-- **Custom Software Development:** Tailored applications for web, mobile, and desktop.
-- **Point-of-Sale (POS) Systems:** Comprehensive solutions for retail and inventory management.
-- **Ticketing & Event Management Systems:** Complete platforms for venues and organizations.
+---
 
-## Recent Portfolio (highlights)
+## What We Build
 
-We continuously ship production systems across web, mobile, and messaging platforms. Recent notable projects include:
+- **WhatsApp Business Platform & AI Automation** — AI-driven virtual agents and automated WhatsApp workflows as a Verified Meta Tech Provider. *(AI Virtual Agents · Customer Support Automation)*
+- **Web App & SaaS Development** — Custom web applications on modern frameworks, built to scale. *(SaaS Platforms · Internal Dashboards)*
+- **Mobile Solutions** — Native and cross-platform apps delivered to production quality on schedule. *(React Native · Flutter · PWA)*
+- **POS & Inventory Ecosystem** — Full-featured Point-of-Sale for multi-location retail with real-time sync and reconciliation.
+- **Content Platform Engineering** — Enterprise-grade WordPress and headless CMS builds optimized for performance and SEO. *(Custom Theme Architecture · Headless CMS & API Integration)*
+- **Public Sector Data Management** — Production-safe systems for regulated environments with strict access controls.
 
-- Venue Ticketing & Event Management System — a complete ticketing and event management platform used by water tourism and entertainment venues.
-- Comprehensive POS & Inventory Ecosystem — full-featured Point-of-Sale solution for retail and inventory operations across multiple locations.
-- WhatsApp Integrated AI Solution — AI-driven virtual agent integrated with WhatsApp for customer engagement and automation.
-- Secure Public Sector Data Management — production-safe data handling for regulated environments, enforcing strict access controls and complex calculation logic where accuracy failures have real consequences.
-- Keluarga Allah Church Ticketing System — event ticketing and attendance management for church events.
-- Keluarga Allah Church Youth & Teens Impact — Survey System for collecting feedback and impact metrics from youth programs.
-- Keluarga Allah Church Youth & Teens Impact — Booking System for scheduling events, meetings, and resources.
-- Keluarga Allah Church Youth & Teens Impact — Integrated WhatsApp Live Q&A System for real-time interaction during events.
+**Our stack:** Laravel · Vue.js · Go · Python · Flutter · React Native · PWA
 
-If you'd like case studies or demos for any item above, please open an issue or contact us.
+---
 
-## Repository Contents
+## How We Work
 
-This repository contains a growing collection of open-source tools and reusable template repositories developed by our team.
+1. **Discovery** — We align on requirements, constraints, and what success looks like.
+2. **Design** — UI/UX prototyping and architecture planning before a line of code is written.
+3. **Development** — Agile sprints with regular check-ins and quality assurance at every step.
+4. **Deployment** — Smooth launch, active monitoring, and a clear path to scale.
 
-- **Tools:** These are standalone utilities designed to solve specific problems, streamline workflows, or provide valuable functionalities.
-- **Templates:** These are starter projects or boilerplates configured to help you develop faster by providing a solid foundation for common application types (e.g., web apps, APIs, mobile components).
+---
 
-Please refer to the individual directories for specific documentation, usage instructions, and licensing information for each tool or template.
+## AI-Assisted. Human-Accountable.
 
-## Contribution
+We use modern Agentic AI workflows to ship faster — and we're upfront about how and where we use them.
 
-While this repository primarily hosts resources developed by NTJ Application Studio, we welcome feedback, bug reports, and suggestions for improvements. If you have an idea or find an issue, please feel free to open an issue or submit a pull request.
+- **AI-Augmented Engineering** — AI speeds up prototyping, code generation, and design.
+- **Human-in-the-Loop (HITL)** — Every AI-assisted output is reviewed by a qualified engineer before it ships.
+- **Your Data Stays Yours** — We never use client or user data to train public third-party AI models.
+- **SE Menkominfo No. 9/2023 Compliant** — Our AI practices follow Indonesian ethical standards on transparency and accountability.
 
-## Legal Information
+---
 
-* **Legal Name:** PT NTJ Application Studio
+## Recent Portfolio
 
-## Contact Us
+| Project | Description |
+|---|---|
+| Venue Ticketing & Event Management | Complete ticketing platform for water tourism and entertainment venues |
+| POS & Inventory Ecosystem | Multi-location retail POS with real-time sync and reconciliation |
+| WhatsApp Integrated AI Solution | AI virtual agent on WhatsApp Business Platform for customer automation |
+| Secure Public Sector Data Management | Regulated data handling with strict access controls |
+| Keluarga Allah Church — Youth & Teens Suite | Survey, Booking, and WhatsApp Live Q&A systems for youth programs |
 
-We are your trusted partner in digital transformation. Feel free to reach out to us for collaborations, inquiries, or support.
+> 📂 Full case studies → [www.ntj.co.id/case-studies](https://www.ntj.co.id/case-studies?lang=en)
 
-* **E-Mail:** admin@ntj.co.id
-* **Instagram:** https://www.instagram.com/ntjapps
-* **LinkedIn:** https://www.linkedin.com/company/ntjapps
-* **Website:** https://www.ntj.co.id
+---
 
-Thank you for your interest in NTJ Application Studio's public tools and templates! We hope these resources help you simplify technology and amplify your success.
+## This Repository
+
+This org hosts public tools and template repositories developed by our team.
+
+- **Tools** — Standalone utilities to solve specific problems and streamline workflows.
+- **Templates** — Starter projects and boilerplates for common application types (web apps, APIs, mobile components).
+
+Feedback, bug reports, and pull requests are welcome. Open an issue or submit a PR.
+
+---
+
+## Legal
+
+**PT NTJ Application Studio** · Registered in Indonesia · Bandung, Indonesia
+"NTJ Application Studio" and the NTJ logo are registered trademarks of PT NTJ Application Studio.
+
+[Terms of Service](https://www.ntj.co.id/terms-of-service?lang=en) · [Privacy Policy](https://www.ntj.co.id/privacy-policy?lang=en)
+
+---
+
+## Contact
+
+| Channel | Details |
+|---|---|
+| 🌐 Website | [www.ntj.co.id](https://www.ntj.co.id?lang=en) |
+| 📧 Email | [admin@ntj.co.id](mailto:admin@ntj.co.id) |
+| 💬 WhatsApp (SME) | [+62 838-6984-3600](https://wa.me/6283869843600) |
+| 💼 LinkedIn | [linkedin.com/company/ntjapps](https://www.linkedin.com/company/ntjapps) |
+| 📸 Instagram | [@ntjapps](https://www.instagram.com/ntjapps) |
+
+---
+
+*Dependable software, built to grow with your business.*
